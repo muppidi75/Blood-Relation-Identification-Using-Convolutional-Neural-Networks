@@ -1,1 +1,11 @@
-# Blood-Relation-Identification-Using-Convolutional-Neural-Networks
+# Blood-Relation Identification Using Convolutional Neural Networks
+
+Nov 2023 - Feb 2024
+<br>
+<br>
+In the Blood-Relation Identification project, I focused on identifying blood-related relationships through feature extraction using Convolutional Neural Networks (CNNs). The project involved analysing data to detect patterns that can reveal familial connections. I developed strong skills in data analysis and feature extraction techniques, contributing to the experimentation process and gaining valuable insights into data interpretation and pattern recognition.
+
+This experience deepened my understanding of how machine learning models, particularly CNNs, can be applied to real-world problems such as recognizing relationships. I gained hands-on experience with neural network architecture, data pre-processing, and model training, which helped refine my problem-solving approach. Additionally, the project enhanced my ability to interpret complex datasets and adapt machine learning solutions to solve specific challenges, further strengthening my expertise in artificial intelligence and deep learning.
+In the Blood-Relation Identification project, I focused on identifying blood-related relationships through feature extraction using Convolutional Neural Networks (CNNs). The project involved analysing data to detect patterns that can reveal familial connections. I developed strong skills in data analysis and feature extraction techniques, contributing to the experimentation process and gaining valuable insights into data interpretation and pattern recognition. This experience deepened my understanding of how machine learning models, particularly CNNs, can be applied to real-world problems such as recognizing relationships. I gained hands-on experience with neural network architecture, data pre-processing, and model training, which helped refine my problem-solving approach. Additionally, the project enhanced my ability to interpret complex datasets and adapt machine learning solutions to solve specific challenges, further strengthening my expertise in artificial intelligence and deep learning.
+
+Skills: Deep Learning · Convolutional Neural Networks (CNN) · pandas · NumPy · Image Processing · Data Agumentation
